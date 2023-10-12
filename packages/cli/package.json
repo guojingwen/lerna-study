@@ -31,5 +31,8 @@
   "type": "module",
   "bugs": {
     "url": "https://github.com/guojingwen/lerna-study/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
